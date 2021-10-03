@@ -64,9 +64,11 @@ const Header = () => {
                   close they were to success when they gave up.”– Thomas A.
                   Edison
                 </h1>
-                <Button variant="outline-warning mt-md-5 text-left">
-                  Learn More
-                </Button>
+                <Link to="/learn-More">
+                  <Button variant="outline-warning mt-md-5 text-left">
+                    Learn More
+                  </Button>
+                </Link>
               </div>
               <div className="col-md-4"></div>
             </div>
