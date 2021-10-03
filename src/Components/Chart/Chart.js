@@ -58,8 +58,8 @@ const data = [
 export default function Chart() {
   return (
     <LineChart className="my-5 mx-auto"
-      width={500}
-      height={300}
+      width={350}
+      height={250}
       data={data}
       margin={{
         top: 5,
