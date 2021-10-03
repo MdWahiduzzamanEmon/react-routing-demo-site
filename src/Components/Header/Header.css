@@ -1,0 +1,10 @@
+.logo-img{
+    width: 50px;
+}
+.bg-img{
+    background-image: url('https://makcreates.com/wp-content/uploads/2018/03/black-background-mak-creates-web-design-services-1500-2500.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 430px;
+    background-position: center top;
+}
