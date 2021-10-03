@@ -12,8 +12,8 @@ const Details = () => {
           .then((data) => setData(data));
     },[])
     return (
-      <div>
-        <section className="row py-5 my-5 container">
+      <div className="container">
+        <section className="row py-5 my-5">
           <div className="details-section col-md-3">
             {completed === true ? (
               <img
